@@ -1,0 +1,152 @@
+# Blender 4.0.0 MTL File: 'lvl1.blend'
+# www.blender.org
+
+newmtl Shape
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/430A12DC_c.png
+
+newmtl Shape.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/430A12DC_c.png
+
+newmtl Shape.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/430A12DC_c.png
+
+newmtl Shape.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/430A12DC_c.png
+
+newmtl Shape.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/430A12DC_c.png
+
+newmtl Shape_1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/7A7501A5_c.png
+
+newmtl Shape_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/2BF33E2A_c.png
+
+newmtl Shape_3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/6B88A261_c.png
+
+newmtl Shape_4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/4D23D68_c.png
+
+newmtl Shape_5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/48ED827D_c.png
+
+newmtl Shape_5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/48ED827D_c.png
+
+newmtl Shape_5.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/48ED827D_c.png
+
+newmtl Shape_5.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/48ED827D_c.png
+
+newmtl Shape_5.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/48ED827D_c.png
+
+newmtl Shape_6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:/Мои программы/N64/Wario Appartion Tech Demo/Dire Dire Docks Room/black.png
